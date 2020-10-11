@@ -1,6 +1,6 @@
-# training
+# Fundamental
 
-A new Flutter project.
+A new Flutter project follow youtube [Erico Darmawan Handoyo](https://www.youtube.com/user/kh3w4nx1ng)
 
 ## Getting Started
 
